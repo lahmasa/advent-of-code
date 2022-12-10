@@ -60,6 +60,6 @@ def p2(filename):
     return len(pos)
 
 
-filename = 'day09.txt'
+filename = '../../input/2022/day09.txt'
 print(p1(filename))
 print(p2(filename))
